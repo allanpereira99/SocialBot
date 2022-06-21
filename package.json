@@ -1,0 +1,35 @@
+{
+  "name": "socialbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "nodemon src/bot.js",
+    "start": "node src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanpereira99/SocialBot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "video",
+    "downloader"
+  ],
+  "author": "allan pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanpereira99/SocialBot/issues"
+  },
+  "homepage": "https://github.com/allanpereira99/SocialBot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "download": "^8.0.0",
+    "node-telegram-bot-api": "^0.57.0",
+    "twitter-url-direct": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
