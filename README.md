@@ -7,7 +7,7 @@
 
 ## Functionality
 
-Download videos from twitter.
+Download videos from twitter, tiktok.
 
 ## Author
 
